@@ -1,1 +1,1 @@
-select now() as 現在時間
+SELECT NOW() AS 現在時間

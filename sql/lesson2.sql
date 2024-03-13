@@ -1,1 +1,1 @@
-SELECT 'Hello PostgreSQL' as 內容
+SELECT 'Hello PostgreSQL'
